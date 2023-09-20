@@ -13,8 +13,8 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
-    "app": "react-vite"
+    "app": "amp-test",
+    "org": "davidwells"
   },
   "files": [
     "!src/**/*"
