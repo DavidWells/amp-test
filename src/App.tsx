@@ -25,7 +25,7 @@ function App() {
           height="20%"
           src="ampt.svg"
         />
-        <h1>Hello from Ampt!</h1>
+        <h1>Hello from Ampt test!</h1>
       </div>
       <h3>API Status: {status}</h3>
     </div>
